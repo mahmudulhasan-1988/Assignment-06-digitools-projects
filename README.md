@@ -30,7 +30,7 @@ Digitools is a modern web application where users can explore and access premium
 
 ---
 
-## 📂 Live Link
+## 📂 Netlify Live Link
 👉 [https://assingment-6-digitools-project.netlify.app/]
 
 ## 📂 GitHub Link
