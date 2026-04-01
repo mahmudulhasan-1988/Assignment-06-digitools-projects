@@ -1,20 +1,40 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Assignment-06 DigiTools Projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Name
 
-Currently, two official plugins are available:
+**Assignment-06-digitools-projects**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📖 Description
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Digitools is a modern web application where users can explore and access premium digital tools in one place. The platform provides a clean UI, smooth user experience, and organized tool categories to enhance productivity and efficiency.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Assignment-06-digitools-projects
->>>>>>> f892fd976d64d53a140f0f95096a29440b4b6d4f
+## 🛠️ Technologies Used
+
+* ⚛️ React.js
+* 🎨 Tailwind CSS
+* 🌼 DaisyUI
+* 🔗 REST API
+* 🧠 JavaScript (ES6+)
+
+---
+
+## ✨ Key Features
+
+* 🔥 **Modern UI Design** – Clean, responsive, and user-friendly interface
+* ⚡ **Dynamic Data Loading** – Fetch and display data from API in real-time
+* 🎯 **Reusable Components** – Well-structured and maintainable React components
+
+---
+
+## 📂 Live Link
+👉 [https://assingment-6-digitools-project.netlify.app/]
+
+## 📂 GitHub Link
+👉 [https://github.com/mahmudulhasan-1988/Assignment-06-digitools-projects]
+
+---
+*
