@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Create professional resumes easily.\nOptimized for ATS systems.",
+    "price": 40,
+    "period": "/one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "https://i.ibb.co.com/JRB1Mdgb/writing.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "Generate blog posts instantly.\nImprove SEO and readability.",
+    "price": 30,
+    "period": "/monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": ["SEO optimization", "Multiple tones", "Unlimited content"],
+    "icon": "https://i.ibb.co.com/ynnzkrdj/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Create stunning designs.\nDrag and drop interface.",
+    "price": 50,
+    "period": "/monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["500+ templates", "Custom fonts", "Export HD"],
+    "icon": "https://i.ibb.co.com/CKRfSkJh/camera.png"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Edit videos with AI.\nAuto subtitles and effects.",
+    "price": 25,
+    "period": "/monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Auto editing", "Subtitles", "4K export"],
+    "icon": "https://i.ibb.co.com/fYNvvZmL/operation.png"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Track your workouts.\nMonitor health metrics.",
+    "price": 10,
+    "period": "/monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": ["Workout tracking", "Calories counter", "Progress charts"],
+    "icon": "https://i.ibb.co.com/M58PCDtZ/portfolio.png"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Learn new languages fast.\nAI-powered speaking practice.",
+    "price": 15,
+    "period": "/monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Voice practice", "Daily lessons", "Progress tracking"],
+    "icon": "https://i.ibb.co.com/nsZ7wCRt/social-media.png"
+  }
+
+]
